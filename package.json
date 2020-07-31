@@ -1,0 +1,23 @@
+{
+  "name": "studymatch",
+  "version": "1.0.0",
+  "description": "A matching platform for students looking for someone to study with.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharvashirke/StudyMatch.git"
+  },
+  "author": "Atharva Shirke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharvashirke/StudyMatch/issues"
+  },
+  "homepage": "https://github.com/atharvashirke/StudyMatch#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
